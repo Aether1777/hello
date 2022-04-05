@@ -28,7 +28,7 @@ const config = {
     projectId: xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx,
     storageBucket: xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx,
     messagingSenderId: xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx,
-    appId: xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx,
+    appId: "20679348f4c95ee2",
     measurementId: xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx,
     CometChatAppId: xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx,
     CometChatRegion: xxx-xxx-xxx-xxx-xxx-xxx-xxx-xxx,
